@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AssigTwoFragment</string>
+    <string name="change_fragment">Change Fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+    <string name="display_fragment">Display Fragment</string>
+    <string name="app_detail">This app will match you with a plants!</string>
+    <string name="cacti_text">Do you like Cacti?</string>
+    <string name="appleTree_text">Do you like Apple Trees?</string>
+    <string name="roses_text">Do you like Roses?</string>
+    <string name="grass_text">Do you like grass?</string>
+    <string name="detail_side_note">You may choose more than one!</string>
+    <string name="grass_image_desc">This is an image of Grass</string>
+    <string name="apple_tree_image_desc">This is an image of an Apple Tree</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_fragment_text">(Nothing Entered)</string>
+</resources>
